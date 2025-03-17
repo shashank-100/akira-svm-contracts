@@ -1,0 +1,11 @@
+/Users/shashank/Desktop/rust1/code/target/sbpf-solana-solana/release/deps/libsolana_borsh-d81c8a60be891ec8.rmeta: /Users/shashank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-borsh-2.2.1/src/lib.rs /Users/shashank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-borsh-2.2.1/src/deprecated.rs /Users/shashank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-borsh-2.2.1/src/macros.rs /Users/shashank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-borsh-2.2.1/src/v0_10.rs /Users/shashank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-borsh-2.2.1/src/v1.rs
+
+/Users/shashank/Desktop/rust1/code/target/sbpf-solana-solana/release/deps/libsolana_borsh-d81c8a60be891ec8.rlib: /Users/shashank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-borsh-2.2.1/src/lib.rs /Users/shashank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-borsh-2.2.1/src/deprecated.rs /Users/shashank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-borsh-2.2.1/src/macros.rs /Users/shashank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-borsh-2.2.1/src/v0_10.rs /Users/shashank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-borsh-2.2.1/src/v1.rs
+
+/Users/shashank/Desktop/rust1/code/target/sbpf-solana-solana/release/deps/solana_borsh-d81c8a60be891ec8.d: /Users/shashank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-borsh-2.2.1/src/lib.rs /Users/shashank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-borsh-2.2.1/src/deprecated.rs /Users/shashank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-borsh-2.2.1/src/macros.rs /Users/shashank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-borsh-2.2.1/src/v0_10.rs /Users/shashank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-borsh-2.2.1/src/v1.rs
+
+/Users/shashank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-borsh-2.2.1/src/lib.rs:
+/Users/shashank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-borsh-2.2.1/src/deprecated.rs:
+/Users/shashank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-borsh-2.2.1/src/macros.rs:
+/Users/shashank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-borsh-2.2.1/src/v0_10.rs:
+/Users/shashank/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-borsh-2.2.1/src/v1.rs:
